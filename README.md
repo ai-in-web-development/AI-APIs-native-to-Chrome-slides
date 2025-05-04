@@ -27,6 +27,8 @@ Imagine the power of **AI as JS APIs natively available in Chrome**.
 
 Let's build **smarter, faster, and with more fun - right in the browser**.
 
+[Handwritten notes of 12th April 2025 React Meetup88](https://github.com/kurtzace/diary-2025/tree/main/seminars/reactmeetup88)
+
 ---
 
 ## Traditional vs. Modern Approach
@@ -157,10 +159,9 @@ Imagine a site that adjusts layout based on what it predicts your visitor prefer
 
 **AI is becoming an integral part of modern web development**.
 
-Developers should explore **browser-based AI libraries** and cloud-based AI SDKs.
+- Developers should explore **browser-based AI libraries** and cloud-based AI SDKs.
+- Let's build smarter, faster, and with more fun - **right in the browser**.
 
-Let's build smarter, faster, and with more fun - **right in the browser**.
+**Credits**: AI for Web Development by [Vishwesh Jainkuniya](https://www.linkedin.com/in/jainkuniya/), Lead Engineer, [eka.care](http://eka.care/) , [Original Slides](https://t.co/rUFkFpVrp6)
 
-</textarea>
-</section>
 ```
