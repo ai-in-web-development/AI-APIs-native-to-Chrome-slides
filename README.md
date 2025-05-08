@@ -43,12 +43,12 @@ Traditional client-server model is evolving.
 ---
 
 ## Key Libraries for Browser AI
-
-*   **TensorFlow.js**
+(where browser downloads model)
+*   **[TensorFlow.js](https://www.tensorflow.org/js/models)**, [demo](https://holobooth.flutter.dev/#/)
 *   **face-api.js**
 *   **ml5js**
 *   **kalidokit**
-*   **Handtrack.js**
+*   **[Handtrack.js](https://victordibia.com/handtrack.js/#/)**
 
 Used for real-world applications like image/video processing, face recognition, hand tracking, avatars, and hand gestures directly in the browser.
 
