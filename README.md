@@ -89,15 +89,10 @@ await translator2.translate("Hello, how are you");
 ### Summarizer Example
 
 Creating and using a summarizer.
-
+| Old    | New |
+| -------- | ------- |
+| `const summarizer = await ai.summarizer.create({ monitor(m) { m.addEventListener('downloadprogress', (e) => {`  | `const summarizer = await Summarizer.create({ monitor(m) { m.addEventListener('downloadprogress'`    |
 ```javascript
-const summarizer = await ai.summarizer.create({
-  monitor(m) {
-    m.addEventListener('downloadprogress', (e) => {
-      console.log(`Downloaded ${e.loaded} of ${e.total} bytes.`);
-    });
-  }
-});
 const summary = await summarizer.summarize(text, {
   context: 'These are a prescription data intended to be consumed by doctor.',
 });
